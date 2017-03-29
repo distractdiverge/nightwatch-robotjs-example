@@ -2,5 +2,9 @@
   "name": "robotjs",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nightwatch": "^0.9.14",
+    "robotjs": "^0.4.7"
+  }
 }
