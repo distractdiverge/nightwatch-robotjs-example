@@ -12,8 +12,8 @@
     "log_path" : "",
     "port" : 4444,
     "cli_args" : {
-      "webdriver.chrome.driver" : "./bin/osx/geckodriver",
-      "webdriver.gecko.driver" : "./bin/osx/chromedriver"
+      "webdriver.chrome.driver" : "./bin/osx/chromedriver",
+      "webdriver.gecko.driver" : "./bin/osx/geckodriver"
     }
   },
 
